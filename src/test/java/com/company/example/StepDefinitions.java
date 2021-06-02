@@ -8,4 +8,5 @@ public class StepDefinitions {
         Belly belly = new Belly();
         belly.eat(cukes);
     }
+
 }
