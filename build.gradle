@@ -9,7 +9,7 @@ version = '0.1.0'
 ext {
     slf4jVersion = '1.7.31'
     projectLombokVersion = '1.16.20'
-    cucumberVersion = '7.1.0'
+    cucumberVersion = '7.2.2'
 }
 
 dependencies {
